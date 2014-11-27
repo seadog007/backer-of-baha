@@ -12,3 +12,4 @@
     聯絡我們：<a href="mailto:007seadog@gmail.com">007seadog@gmail.com</a></p>
     </div>
   </footer>
+<?php include_once("analyticstracking.php") ?>
