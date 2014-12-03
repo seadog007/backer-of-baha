@@ -9,8 +9,8 @@
   <!-- Site Properities -->
   <title>巴哈文章救援&備份器 - Backer of Bahamut</title>
 
-  <link rel="stylesheet" type="text/css" href="../dist/semantic.css">
-  <link rel="stylesheet" type="text/css" href="bob.css">
+  <link rel="stylesheet" type="text/css" href="dist/css/semantic.css">
+  <link rel="stylesheet" type="text/css" href="dist/css/bob.css">
 
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
   <script src="dist/js/semantic.js"></script>
