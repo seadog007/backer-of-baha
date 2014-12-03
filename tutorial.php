@@ -7,7 +7,7 @@
   <div class="ui inverted masthead segment">
     <div class="ui page grid">
       <div class="column">
-        <?php include_once("dist/navbar.php") ?>
+        <?php include_once("includes/navbar.php") ?>
         </div>
       </div>
     </div>
@@ -23,7 +23,7 @@
       </div>
     </div>
   </div>
-  <?php include_once("dist/footer.php") ?>
+  <?php include_once("includes/footer.php") ?>
 </body>
 
 </html>
