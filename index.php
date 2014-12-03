@@ -21,7 +21,7 @@
     <div class="ui page grid">
       <div class="column">
         <?php include_once("dist/navbar.php") ?>
-        <img src="images/cat.png" class="ui medium image">
+        <img src="dist/images/cat.png" class="ui medium image">
         <div class="ui hidden transition information">
           <h1 class="ui inverted header">
             巴哈文章救援&備份器<br>
