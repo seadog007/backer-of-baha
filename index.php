@@ -37,8 +37,8 @@
             <div class="visible content">立即復原</div>
             <div class="hidden content">點我使用</div>
           </div>
-          <div class="large basic inverted animated fade ui button" id="use_button_alert" style="width: 200px;">
-            <div class="visible content">請換解析度較大的電腦瀏覽</div>
+          <div class="large basic inverted animated fade ui button" id="use_button_alert" style="width: 250px;">
+            <div class="visible content">請使用解析度較大的電腦瀏覽</div>
             <div class="hidden content">解析度必須在xxx*xxx以上</div>
           </div>
         </div>
