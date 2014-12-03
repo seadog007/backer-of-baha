@@ -6,7 +6,7 @@
             <h5 class="ui inverted header">網站功能</h5>
             <div class="ui inverted link list">
               <a class="item" href="use.php">立即復原</a>
-              <a class="item">快速教學</a>
+              <a class="item" href="tutorial.php">快速教學</a>
               <a class="item">我們的Github</a>
             </div>
           </div>
