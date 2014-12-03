@@ -6,4 +6,4 @@
   ga('create', 'UA-Your-Code', 'auto');
   ga('send', 'pageview');
 </script>
-<!--this file need to rename to analyticstracking.ph-->
+<!--this file need to rename to analyticstracking.php-->
