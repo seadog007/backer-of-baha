@@ -39,4 +39,4 @@
       </div>
    </div>
 </div>
-<?php include_once("./../includes/analyticstracking.php") ?>
+<?php include_once(dirname(__FILE__)."/../includes/analyticstracking.php") ?>
