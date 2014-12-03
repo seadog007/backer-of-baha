@@ -1,5 +1,5 @@
 <div class="ui inverted blue menu">
-  <div class="header item">Backer of Bahamut</div>
+  <div class="header item"><a href="index.php">Backer of Bahamut</a></div>
     <div class="right menu">
       <div class="ui mobile dropdown link item">
           Menu
